@@ -1,8 +1,6 @@
 {
   "name": "Gosia Theme",
   "type": "dark",
-  "icon": "https://github.com/m-bak/gosia-theme/blob/master/icon.PNG",
-  "repository": "https://github.com/m-bak/gosia-theme.git",
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {

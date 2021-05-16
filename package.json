@@ -4,6 +4,8 @@
     "description": "",
     "version": "0.0.1",
     "publisher": "gosia",
+    "repository": "https://github.com/m-bak/gosia-theme.git",
+    "icon": "https://github.com/m-bak/gosia-theme/blob/master/icon.PNG",
     "engines": {
         "vscode": "^1.56.0"
     },
