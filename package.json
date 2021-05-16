@@ -1,0 +1,22 @@
+{
+    "name": "gosia-theme",
+    "displayName": "Gosia Theme",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "gosia",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Gosia Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Gosia Theme-color-theme.json"
+            }
+        ]
+    }
+}
