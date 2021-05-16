@@ -1,11 +1,11 @@
 {
     "name": "gosia-theme",
     "displayName": "Gosia Theme",
-    "description": "",
-    "version": "0.0.1",
+    "description": "A dark theme for Visual Studio Code.",
+    "version": "0.0.2",
     "publisher": "gosia",
     "repository": "https://github.com/m-bak/gosia-theme.git",
-    "icon": "https://github.com/m-bak/gosia-theme/blob/master/icon.PNG",
+    "icon": "icon.PNG",
     "engines": {
         "vscode": "^1.56.0"
     },
