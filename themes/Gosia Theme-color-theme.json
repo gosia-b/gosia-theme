@@ -1,6 +1,7 @@
 {
   "name": "Gosia Theme",
   "type": "dark",
+  "icon": "https://github.com/m-bak/gosia-theme/blob/master/icon.PNG",
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {
