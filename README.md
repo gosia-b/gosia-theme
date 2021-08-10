@@ -1,3 +1,3 @@
 A dark theme for Visual Studio Code.
 <br><br>
-![alt text](https://github.com/m-bak/gosia-theme/blob/master/code_example.png)
+![alt text](https://raw.githubusercontent.com/m-bak/gosia-theme/master/code_example.png)
