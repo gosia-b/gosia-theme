@@ -109,7 +109,7 @@
       "name": "punctuation.definition",
       "scope": "punctuation.definition.string.begin,punctuation.definition.string.end",
       "settings": {
-        "foreground": "#41b883"
+        "foreground": "#89d185"
       }
     },
     {
@@ -144,7 +144,7 @@
       "name": "inserted.diff",
       "scope": "markup.inserted.diff",
       "settings": {
-        "foreground": "#41b883"
+        "foreground": "#89d185"
       }
     },
     {
@@ -736,7 +736,7 @@
       "name": "Strings",
       "scope": "string",
       "settings": {
-        "foreground": "#41b883"
+        "foreground": "#89d185"
       }
     },
     {
@@ -899,14 +899,14 @@
       "name": "[VSCODE-CUSTOM] Markdown Inline Raw",
       "scope": "markup.inline.raw.markdown",
       "settings": {
-        "foreground": "#41b883"
+        "foreground": "#89d185"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown Inline Raw",
       "scope": "markup.inline.raw.string.markdown",
       "settings": {
-        "foreground": "#41b883"
+        "foreground": "#89d185"
       }
     },
     {
@@ -1038,7 +1038,7 @@
       "name": "Source Json Meta Structure Dictionary Json > Value Json > String Quoted Json,source Json Meta Structure Array Json > Value Json > String Quoted Json,source Json Meta Structure Dictionary Json > Value Json > String Quoted Json > Punctuation,source Json Meta Structure Array Json > Value Json > String Quoted Json > Punctuation",
       "scope": "source.json meta.structure.dictionary.json > value.json > string.quoted.json,source.json meta.structure.array.json > value.json > string.quoted.json,source.json meta.structure.dictionary.json > value.json > string.quoted.json > punctuation,source.json meta.structure.array.json > value.json > string.quoted.json > punctuation",
       "settings": {
-        "foreground": "#41b883"
+        "foreground": "#89d185"
       }
     },
     {
@@ -1381,7 +1381,7 @@
         "keyword.other.template.begin"
       ],
       "settings": {
-        "foreground": "#41b883"
+        "foreground": "#89d185"
       }
     },
     {
@@ -1390,7 +1390,7 @@
         "keyword.other.template.end"
       ],
       "settings": {
-        "foreground": "#41b883"
+        "foreground": "#89d185"
       }
     },
     {
@@ -1399,7 +1399,7 @@
         "keyword.other.substitution.begin"
       ],
       "settings": {
-        "foreground": "#41b883"
+        "foreground": "#89d185"
       }
     },
     {
@@ -1408,7 +1408,7 @@
         "keyword.other.substitution.end"
       ],
       "settings": {
-        "foreground": "#41b883"
+        "foreground": "#89d185"
       }
     },
     {
@@ -1537,7 +1537,7 @@
         "source.ini"
       ],
       "settings": {
-        "foreground": "#41b883"
+        "foreground": "#89d185"
       }
     },
     {
@@ -1591,7 +1591,7 @@
         "meta.definition.class.inherited.classes.groovy"
       ],
       "settings": {
-        "foreground": "#41b883"
+        "foreground": "#89d185"
       }
     },
     {
@@ -1697,7 +1697,7 @@
         "beginning.punctuation.definition.quote.markdown.xi"
       ],
       "settings": {
-        "foreground": "#41b883"
+        "foreground": "#89d185"
       }
     },
     {
@@ -1957,7 +1957,7 @@
     "editorInfo.border": "#4490BF00",
     "editorGutter.background": "#181e29",
     "editorGutter.modifiedBackground": "#61afef",
-    "editorGutter.addedBackground": "#41b883",
+    "editorGutter.addedBackground": "#89d185",
     "editorGutter.deletedBackground": "#ec7571",
     "editorGutter.foldingControlForeground": "#c5c5c5",
     "editorCodeLens.foreground": "#aaaaaa",
@@ -2035,7 +2035,7 @@
     "gitDecoration.stageDeletedResourceForeground": "#dd6b73",
     "gitDecoration.stageModifiedResourceForeground": "#f8d77d",
     "gitDecoration.submoduleResourceForeground": "#61afef",
-    "gitDecoration.untrackedResourceForeground": "#41b883",
+    "gitDecoration.untrackedResourceForeground": "#89d185",
     "editorMarkerNavigation.background": "#131820",
     "editorMarkerNavigationError.background": "#dd6b73",
     "editorMarkerNavigationWarning.background": "#f8d77d",
@@ -2075,7 +2075,7 @@
     "dropdown.background": "#262f40",
     "dropdown.foreground": "#cccccc",
     "dropdown.border": "#00000000",
-    "minimapGutter.addedBackground": "#41b883",
+    "minimapGutter.addedBackground": "#89d185",
     "minimapGutter.modifiedBackground": "#61afef",
     "minimapGutter.deletedBackground": "#ec7571",
     "minimap.findMatchHighlight": "#515c6a",
