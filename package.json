@@ -2,7 +2,7 @@
     "name": "gosia-theme",
     "displayName": "Gosia Theme",
     "description": "A dark theme for Visual Studio Code.",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "gosia",
     "repository": "https://github.com/m-bak/gosia-theme.git",
     "icon": "icon.PNG",
